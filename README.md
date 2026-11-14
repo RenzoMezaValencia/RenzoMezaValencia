@@ -25,24 +25,29 @@ Passionate about building scalable automation frameworks, mentoring QA engineeri
 ### 🛠️ Tech Stack & Testing Ecosystem
 
 #### **Automation & Programming**
-![TypeScript](https://shields.io)
-![JavaScript](https://shields.io)
-![Java](https://shields.io)
-![Python](https://shields.io)
-![C++](https://shields.io)
+<p>
+  <img src="https://githubusercontent.com" alt="TypeScript" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="JavaScript" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="Java" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="Python" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="C++" width="40" height="40"/>
+</p>
 
 #### **Test Frameworks & API Testing**
-![Playwright](https://shields.io)
-![Selenium](https://shields.io)
-![Karate DSL](https://shields.io)
-![Cucumber](https://shields.io)
-![Postman](https://shields.io)
+<p>
+  <img src="https://githubusercontent.com" alt="Playwright" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="Selenium" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="Cucumber / Karate DSL" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="Postman" width="40" height="40"/>
+</p>
 
 #### **Performance, CI/CD & Quality Management**
-![K6](https://shields.io)
-![Apache JMeter](https://shields.io)
-![GitHub Actions](https://shields.io)
-![Jira](https://shields.io)
+<p>
+  <img src="https://githubusercontent.com" alt="K6" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="Apache JMeter" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="GitHub Actions" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="Jira" width="40" height="40"/>
+</p>
 
 ---
 
@@ -57,5 +62,12 @@ Passionate about building scalable automation frameworks, mentoring QA engineeri
 
 ### 🤝 Connect With Me
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/renzo-abel-meza-valencia-004223122/)
-[![Gmail](https://shields.io)](mailto:renzo.meza.valencia@gmail.com)
+<p>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://githubusercontent.com" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:renzo.meza.valencia@gmail.com">
+    <img src="https://githubusercontent.com" alt="Gmail" width="40" height="40"/>
+  </a>
+</p>
